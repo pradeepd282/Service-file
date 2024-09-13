@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: logindetails-container
-          image: lakshman4/myjavaapp25aug24:1
+          image: maha4iac/myonlinebooking:2
           ports:
             - containerPort: 8080
